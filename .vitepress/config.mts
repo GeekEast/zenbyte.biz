@@ -9,6 +9,7 @@ export default defineConfig({
   base: '/zenbyte.biz/',
   title: 'ZenByte',
   description: 'Technical Blog from ZenByte',
+  head: [['link', { rel: 'shortcut icon', href: '/zenbyte.biz/img/favicon.ico' }]],
   themeConfig: {
     logo: '/img/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
