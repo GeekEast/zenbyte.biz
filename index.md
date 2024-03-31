@@ -4,22 +4,28 @@ layout: home
 
 hero:
   name: "ZenByte"
-  text: "Technical Blog from ZenByte"
-  tagline: My great project tagline
+  text: "Technical Articles"
+  logo:
+  image:
+    src: /static/img/logo.png
+    alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Start Reading
+      link: /articles/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      src: /static/img/essence.svg
+    title: Essence
+    details: Learning is not just about memorizing facts, but rather delving into the essence of things. 
+  - icon:
+      src: /static/img/search.svg
+    title: Searchable
+    details: Taking notes is crucial, but it's best if the notes are searchable, allowing for future refinement. 
+  - icon:
+      src: /static/img/sharing.svg
+    title: Share
+    details: Sharing knowledge enables the continuous improvement of the knowledge itself.
 ---
 
