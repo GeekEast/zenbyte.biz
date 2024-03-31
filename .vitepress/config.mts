@@ -1,15 +1,16 @@
 import { defineConfig } from 'vitepress';
-import articleItems from "./sidebar.json"
+import articleItems from './sidebar.json';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   markdown: {
     theme: 'one-dark-pro',
   },
+  base: '/zenbyte.biz/',
   title: 'ZenByte',
   description: 'Technical Blog from ZenByte',
   themeConfig: {
-    logo: '/static/img/logo.svg',
+    logo: '/img/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: 'Articles', link: '/articles/' }],
     sidebar: {

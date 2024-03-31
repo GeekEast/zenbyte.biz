@@ -7,7 +7,7 @@ hero:
   text: "Technical Articles"
   logo:
   image:
-    src: /static/img/logo.png
+    src: /img/logo.png
     alt: VitePress
   actions:
     - theme: brand
@@ -16,15 +16,15 @@ hero:
 
 features:
   - icon:
-      src: /static/img/essence.svg
+      src: /img/essence.svg
     title: Essence
     details: Learning is not just about memorizing facts, but rather delving into the essence of things. 
   - icon:
-      src: /static/img/search.svg
+      src: /img/search.svg
     title: Searchable
     details: Taking notes is crucial, but it's best if the notes are searchable, allowing for future refinement. 
   - icon:
-      src: /static/img/sharing.svg
+      src: /img/sharing.svg
     title: Share
     details: Sharing knowledge enables the continuous improvement of the knowledge itself.
 ---
