@@ -1,10 +1,15 @@
 {
+  "name": "zenbyte.biz",
+  "version": "1.0.0",
+  "author": "xiang.tan.p2109@gmail.cojm",
+  "license": "MIT",
+  "description": "The source code of zenbyte.biz",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
   "devDependencies": {
     "vitepress": "^1.0.1"
-  },
-  "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
   }
 }
