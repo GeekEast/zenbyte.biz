@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Runtime API Examples | ZenByte</title>
+    <meta name="description" content="Technical Blog from ZenByte">
+    <meta name="generator" content="VitePress v1.0.1">
+    <link rel="preload stylesheet" href="/assets/style.Blh09hCk.css" as="style">
+    
+    <script type="module" src="/assets/app.CRq4gjb6.js"></script>
+    <link rel="preload" href="/assets/inter-roman-latin.Bu8hRsVA.woff2" as="font" type="font/woff2" crossorigin="">
+    <link rel="modulepreload" href="/assets/chunks/framework.B5RDkS33.js">
+    <link rel="modulepreload" href="/assets/chunks/theme.z1fZmmQ5.js">
+    <link rel="modulepreload" href="/assets/articles_index.md.DjxGcdny.lean.js">
+    <script id="check-dark-mode">(()=>{const e=localStorage.getItem("vitepress-theme-appearance")||"auto",a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
+    <script id="check-mac-os">document.documentElement.classList.toggle("mac",/Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
+  </head>
+  <body>
+    <div id="app"><div class="Layout" data-v-c5cd5b58><!--[--><!--]--><!--[--><span tabindex="-1" data-v-3be3e8c0></span><a href="#VPContent" class="VPSkipLink visually-hidden" data-v-3be3e8c0> Skip to content </a><!--]--><!----><header class="VPNav" data-v-c5cd5b58 data-v-fbeaba32><div class="VPNavBar has-sidebar top" data-v-fbeaba32 data-v-65f6bd0f><div class="wrapper" data-v-65f6bd0f><div class="container" data-v-65f6bd0f><div class="title" data-v-65f6bd0f><div class="VPNavBarTitle has-sidebar" data-v-65f6bd0f data-v-bcbb4cc3><a class="title" href="/" data-v-bcbb4cc3><!--[--><!--]--><!--[--><img class="VPImage logo" src="/static/img/logo.svg" alt data-v-3d3f4527><!--]--><span data-v-bcbb4cc3>ZenByte</span><!--[--><!--]--></a></div></div><div class="content" data-v-65f6bd0f><div class="content-body" data-v-65f6bd0f><!--[--><!--]--><div class="VPNavBarSearch search" data-v-65f6bd0f><!--[--><!----><div id="local-search"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search"><span class="DocSearch-Button-Container"><span class="vp-icon DocSearch-Search-Icon"></span><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"><kbd class="DocSearch-Button-Key"></kbd><kbd class="DocSearch-Button-Key">K</kbd></span></button></div><!--]--></div><nav aria-labelledby="main-nav-aria-label" class="VPNavBarMenu menu" data-v-65f6bd0f data-v-2ba08d8e><span id="main-nav-aria-label" class="visually-hidden" data-v-2ba08d8e>Main Navigation</span><!--[--><!--[--><a class="VPLink link VPNavBarMenuLink active" href="/articles/" tabindex="0" data-v-2ba08d8e data-v-907db34d><!--[--><span data-v-907db34d>Articles</span><!--]--></a><!--]--><!--]--></nav><!----><div class="VPNavBarAppearance appearance" data-v-65f6bd0f data-v-186c532a><button class="VPSwitch VPSwitchAppearance" type="button" role="switch" title="Switch to dark theme" aria-checked="false" data-v-186c532a data-v-f8e42938 data-v-16c408bb><span class="check" data-v-16c408bb><span class="icon" data-v-16c408bb><!--[--><span class="vpi-sun sun" data-v-f8e42938></span><span class="vpi-moon moon" data-v-f8e42938></span><!--]--></span></span></button></div><div class="VPSocialLinks VPNavBarSocialLinks social-links" data-v-65f6bd0f data-v-9be908c1 data-v-bafac0d2><!--[--><a class="VPSocialLink no-icon" href="https://github.com/GeekEast" aria-label="github" target="_blank" rel="noopener" data-v-bafac0d2 data-v-8895d96c><span class="vpi-social-github" /></a><!--]--></div><div class="VPFlyout VPNavBarExtra extra" data-v-65f6bd0f data-v-544103fe data-v-cf42ec2e><button type="button" class="button" aria-haspopup="true" aria-expanded="false" aria-label="extra navigation" data-v-cf42ec2e><span class="vpi-more-horizontal icon" data-v-cf42ec2e></span></button><div class="menu" data-v-cf42ec2e><div class="VPMenu" data-v-cf42ec2e data-v-b71c672e><!----><!--[--><!--[--><!----><div class="group" data-v-544103fe><div class="item appearance" data-v-544103fe><p class="label" data-v-544103fe>Appearance</p><div class="appearance-action" data-v-544103fe><button class="VPSwitch VPSwitchAppearance" type="button" role="switch" title="Switch to dark theme" aria-checked="false" data-v-544103fe data-v-f8e42938 data-v-16c408bb><span class="check" data-v-16c408bb><span class="icon" data-v-16c408bb><!--[--><span class="vpi-sun sun" data-v-f8e42938></span><span class="vpi-moon moon" data-v-f8e42938></span><!--]--></span></span></button></div></div></div><div class="group" data-v-544103fe><div class="item social-links" data-v-544103fe><div class="VPSocialLinks social-links-list" data-v-544103fe data-v-bafac0d2><!--[--><a class="VPSocialLink no-icon" href="https://github.com/GeekEast" aria-label="github" target="_blank" rel="noopener" data-v-bafac0d2 data-v-8895d96c><span class="vpi-social-github" /></a><!--]--></div></div></div><!--]--><!--]--></div></div></div><!--[--><!--]--><button type="button" class="VPNavBarHamburger hamburger" aria-label="mobile navigation" aria-expanded="false" aria-controls="VPNavScreen" data-v-65f6bd0f data-v-3571f64e><span class="container" data-v-3571f64e><span class="top" data-v-3571f64e></span><span class="middle" data-v-3571f64e></span><span class="bottom" data-v-3571f64e></span></span></button></div></div></div></div><div class="divider" data-v-65f6bd0f><div class="divider-line" data-v-65f6bd0f></div></div></div><!----></header><div class="VPLocalNav has-sidebar empty" data-v-c5cd5b58 data-v-99e9baf3><div class="container" data-v-99e9baf3><button class="menu" aria-expanded="false" aria-controls="VPSidebarNav" data-v-99e9baf3><span class="vpi-align-left menu-icon" data-v-99e9baf3></span><span class="menu-text" data-v-99e9baf3>Menu</span></button><div class="VPLocalNavOutlineDropdown" style="--vp-vh:0px;" data-v-99e9baf3 data-v-e659914e><button data-v-e659914e>Return to top</button><!----></div></div></div><aside class="VPSidebar" data-v-c5cd5b58 data-v-0c9761a6><div class="curtain" data-v-0c9761a6></div><nav class="nav" id="VPSidebarNav" aria-labelledby="sidebar-aria-label" tabindex="-1" data-v-0c9761a6><span class="visually-hidden" id="sidebar-aria-label" data-v-0c9761a6> Sidebar Navigation </span><!--[--><!--]--><!--[--><div class="group" data-v-0c9761a6><section class="VPSidebarItem level-0 has-active" data-v-0c9761a6 data-v-d01e81d5><!----><div class="items" data-v-d01e81d5><!--[--><div class="VPSidebarItem level-1 is-link" data-v-d01e81d5 data-v-d01e81d5><div class="item" data-v-d01e81d5><div class="indicator" data-v-d01e81d5></div><a class="VPLink link link" href="/articles/top-cs-courses.html" data-v-d01e81d5><!--[--><p class="text" data-v-d01e81d5>Top CS Courses</p><!--]--></a><!----></div><!----></div><div class="VPSidebarItem level-1 is-link" data-v-d01e81d5 data-v-d01e81d5><div class="item" data-v-d01e81d5><div class="indicator" data-v-d01e81d5></div><a class="VPLink link link" href="/articles/index.html" data-v-d01e81d5><!--[--><p class="text" data-v-d01e81d5>Runtime API Examples</p><!--]--></a><!----></div><!----></div><!--]--></div></section></div><!--]--><!--[--><!--]--></nav></aside><div class="VPContent has-sidebar" id="VPContent" data-v-c5cd5b58 data-v-5c6db067><div class="VPDoc has-sidebar has-aside" data-v-5c6db067 data-v-c6ae57bd><!--[--><!--]--><div class="container" data-v-c6ae57bd><div class="aside" data-v-c6ae57bd><div class="aside-curtain" data-v-c6ae57bd></div><div class="aside-container" data-v-c6ae57bd><div class="aside-content" data-v-c6ae57bd><div class="VPDocAside" data-v-c6ae57bd data-v-dc98a2c1><!--[--><!--]--><!--[--><!--]--><div class="VPDocAsideOutline" role="navigation" data-v-dc98a2c1 data-v-604f6c37><div class="content" data-v-604f6c37><div class="outline-marker" data-v-604f6c37></div><div class="outline-title" role="heading" aria-level="2" data-v-604f6c37>On this page</div><nav aria-labelledby="doc-outline-aria-label" data-v-604f6c37><span class="visually-hidden" id="doc-outline-aria-label" data-v-604f6c37> Table of Contents for current page </span><ul class="VPDocOutlineItem root" data-v-604f6c37 data-v-99373296><!--[--><!--]--></ul></nav></div></div><!--[--><!--]--><div class="spacer" data-v-dc98a2c1></div><!--[--><!--]--><!----><!--[--><!--]--><!--[--><!--]--></div></div></div></div><div class="content" data-v-c6ae57bd><div class="content-container" data-v-c6ae57bd><!--[--><!--]--><main class="main" data-v-c6ae57bd><div style="position:relative;" class="vp-doc _articles_" data-v-c6ae57bd><div><h1 id="runtime-api-examples" tabindex="-1">Runtime API Examples <a class="header-anchor" href="#runtime-api-examples" aria-label="Permalink to &quot;Runtime API Examples&quot;">​</a></h1><p>This page demonstrates usage of some of the runtime APIs provided by VitePress.</p><p>The main <code>useData()</code> API can be used to access site, theme, and page data for the current page. It works in both <code>.md</code> and <code>.vue</code> files:</p><div class="language-md"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki one-dark-pro vp-code"><code><span class="line"><span style="color:#ABB2BF;">&lt;</span><span style="color:#E06C75;">script</span><span style="color:#D19A66;"> setup</span><span style="color:#ABB2BF;">&gt;</span></span>
+<span class="line"><span style="color:#C678DD;">import</span><span style="color:#ABB2BF;"> { </span><span style="color:#E06C75;">useData</span><span style="color:#ABB2BF;"> } </span><span style="color:#C678DD;">from</span><span style="color:#98C379;"> &#39;vitepress&#39;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#C678DD;">const</span><span style="color:#ABB2BF;"> { </span><span style="color:#E5C07B;">theme</span><span style="color:#ABB2BF;">, </span><span style="color:#E5C07B;">page</span><span style="color:#ABB2BF;">, </span><span style="color:#E5C07B;">frontmatter</span><span style="color:#ABB2BF;"> } </span><span style="color:#56B6C2;">=</span><span style="color:#61AFEF;"> useData</span><span style="color:#ABB2BF;">()</span></span>
+<span class="line"><span style="color:#ABB2BF;">&lt;/</span><span style="color:#E06C75;">script</span><span style="color:#ABB2BF;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#E06C75;">## Results</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#E06C75;">### Theme Data</span></span>
+<span class="line"><span style="color:#ABB2BF;">&lt;</span><span style="color:#E06C75;">pre</span><span style="color:#ABB2BF;">&gt;{{ </span><span style="color:#E06C75;">theme</span><span style="color:#ABB2BF;"> }}&lt;/</span><span style="color:#E06C75;">pre</span><span style="color:#ABB2BF;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#ABB2BF;">### Page Data</span></span>
+<span class="line"><span style="color:#ABB2BF;">&lt;</span><span style="color:#E06C75;">pre</span><span style="color:#ABB2BF;">&gt;{{ </span><span style="color:#E06C75;">page</span><span style="color:#ABB2BF;"> }}&lt;/</span><span style="color:#E06C75;">pre</span><span style="color:#ABB2BF;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#ABB2BF;">### Page Frontmatter</span></span>
+<span class="line"><span style="color:#ABB2BF;">&lt;</span><span style="color:#E06C75;">pre</span><span style="color:#ABB2BF;">&gt;{{ </span><span style="color:#E06C75;">frontmatter</span><span style="color:#ABB2BF;"> }}&lt;/</span><span style="color:#E06C75;">pre</span><span style="color:#ABB2BF;">&gt;</span></span></code></pre></div><h2 id="results" tabindex="-1">Results <a class="header-anchor" href="#results" aria-label="Permalink to &quot;Results&quot;">​</a></h2><h3 id="theme-data" tabindex="-1">Theme Data <a class="header-anchor" href="#theme-data" aria-label="Permalink to &quot;Theme Data&quot;">​</a></h3><pre>{
+  &quot;logo&quot;: &quot;/static/img/logo.svg&quot;,
+  &quot;nav&quot;: [
+    {
+      &quot;text&quot;: &quot;Articles&quot;,
+      &quot;link&quot;: &quot;/articles/&quot;
+    }
+  ],
+  &quot;sidebar&quot;: {
+    &quot;/articles/&quot;: [
+      {
+        &quot;text&quot;: &quot;Top CS Courses&quot;,
+        &quot;link&quot;: &quot;/articles/top-cs-courses.md&quot;
+      },
+      {
+        &quot;text&quot;: &quot;Runtime API Examples&quot;,
+        &quot;link&quot;: &quot;/articles/index.md&quot;
+      }
+    ]
+  },
+  &quot;socialLinks&quot;: [
+    {
+      &quot;icon&quot;: &quot;github&quot;,
+      &quot;link&quot;: &quot;https://github.com/GeekEast&quot;
+    }
+  ],
+  &quot;footer&quot;: {
+    &quot;message&quot;: &quot;Released under the MIT License.&quot;,
+    &quot;copyright&quot;: &quot;Copyright © 2014-present ZenByte&quot;
+  },
+  &quot;lastUpdated&quot;: {
+    &quot;text&quot;: &quot;Updated at&quot;,
+    &quot;formatOptions&quot;: {
+      &quot;dateStyle&quot;: &quot;short&quot;,
+      &quot;timeStyle&quot;: &quot;short&quot;
+    }
+  },
+  &quot;search&quot;: {
+    &quot;provider&quot;: &quot;local&quot;
+  }
+}</pre><h3 id="page-data" tabindex="-1">Page Data <a class="header-anchor" href="#page-data" aria-label="Permalink to &quot;Page Data&quot;">​</a></h3><pre>{
+  &quot;title&quot;: &quot;Runtime API Examples&quot;,
+  &quot;description&quot;: &quot;&quot;,
+  &quot;frontmatter&quot;: {
+    &quot;outline&quot;: &quot;deep&quot;,
+    &quot;prev&quot;: false,
+    &quot;next&quot;: false,
+    &quot;title&quot;: 1
+  },
+  &quot;headers&quot;: [],
+  &quot;relativePath&quot;: &quot;articles/index.md&quot;,
+  &quot;filePath&quot;: &quot;articles/index.md&quot;,
+  &quot;lastUpdated&quot;: 1711902525000
+}</pre><h3 id="page-frontmatter" tabindex="-1">Page Frontmatter <a class="header-anchor" href="#page-frontmatter" aria-label="Permalink to &quot;Page Frontmatter&quot;">​</a></h3><pre>{
+  &quot;outline&quot;: &quot;deep&quot;,
+  &quot;prev&quot;: false,
+  &quot;next&quot;: false,
+  &quot;title&quot;: 1
+}</pre><h2 id="more" tabindex="-1">More <a class="header-anchor" href="#more" aria-label="Permalink to &quot;More&quot;">​</a></h2><p>Check out the documentation for the <a href="https://vitepress.dev/reference/runtime-api#usedata" target="_blank" rel="noreferrer">full list of runtime APIs</a>.</p></div></div></main><footer class="VPDocFooter" data-v-c6ae57bd data-v-9fffbcf3><!--[--><!--]--><div class="edit-info" data-v-9fffbcf3><!----><div class="last-updated" data-v-9fffbcf3><p class="VPLastUpdated" data-v-9fffbcf3 data-v-a74a00ba>Updated at: <time datetime="2024-03-31T16:28:45.000Z" data-v-a74a00ba></time></p></div></div><!----></footer><!--[--><!--]--></div></div></div><!--[--><!--]--></div></div><footer class="VPFooter has-sidebar" data-v-c5cd5b58 data-v-1a7f831f><div class="container" data-v-1a7f831f><p class="message" data-v-1a7f831f>Released under the MIT License.</p><p class="copyright" data-v-1a7f831f>Copyright © 2014-present ZenByte</p></div></footer><!--[--><!--]--></div></div>
+    <script>window.__VP_HASH_MAP__=JSON.parse("{\"readme.md\":\"CBkC5nSK\",\"articles_top-cs-courses.md\":\"q3OyWaI6\",\"index.md\":\"DIwaEBVw\",\"articles_index.md\":\"DjxGcdny\"}");window.__VP_SITE_DATA__=JSON.parse("{\"lang\":\"en-US\",\"dir\":\"ltr\",\"title\":\"ZenByte\",\"description\":\"Technical Blog from ZenByte\",\"base\":\"/\",\"head\":[],\"router\":{\"prefetchLinks\":true},\"appearance\":true,\"themeConfig\":{\"logo\":\"/static/img/logo.svg\",\"nav\":[{\"text\":\"Articles\",\"link\":\"/articles/\"}],\"sidebar\":{\"/articles/\":[{\"text\":\"Top CS Courses\",\"link\":\"/articles/top-cs-courses.md\"},{\"text\":\"Runtime API Examples\",\"link\":\"/articles/index.md\"}]},\"socialLinks\":[{\"icon\":\"github\",\"link\":\"https://github.com/GeekEast\"}],\"footer\":{\"message\":\"Released under the MIT License.\",\"copyright\":\"Copyright © 2014-present ZenByte\"},\"lastUpdated\":{\"text\":\"Updated at\",\"formatOptions\":{\"dateStyle\":\"short\",\"timeStyle\":\"short\"}},\"search\":{\"provider\":\"local\"}},\"locales\":{},\"scrollOffset\":134,\"cleanUrls\":false}");</script>
+    
+  </body>
+</html>
