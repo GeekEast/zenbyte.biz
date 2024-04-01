@@ -1,9 +1,4 @@
----
-outline: deep
-prev: false
-next: false
-text: 2
----
+
 # Top CS Courses
 
 Summary
