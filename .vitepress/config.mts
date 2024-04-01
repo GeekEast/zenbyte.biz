@@ -32,14 +32,17 @@ export default defineConfig({
         timeStyle: 'short',
       },
     },
+    // search: {
+    //   provider: 'algolia',
+    //   options: {
+    //     appId: 'SX8FM9ZST4',
+    //     apiKey: '2a58437ed867379befc25d0ca46dd0dd',
+    //     indexName: 'zenbyte',
+    //     placeholder: 'Search ZenByte',
+    //   },
+    // },
     search: {
-      provider: 'algolia',
-      options: {
-        appId: 'SX8FM9ZST4',
-        apiKey: '2a58437ed867379befc25d0ca46dd0dd',
-        indexName: 'zenbyte',
-        placeholder: 'Search ZenByte',
-      },
+      provider: 'local',
     },
   },
   cleanUrls: true,
