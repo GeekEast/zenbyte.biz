@@ -1,7 +1,7 @@
 {
     "index_name": "zenbyte",
     "start_urls": [
-        "https://github.com/GeekEast/zenbyte.biz"
+        "https://zenbyte.biz"
     ],
     "rateLimit": 8,
     "maxDepth": 10,

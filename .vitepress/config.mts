@@ -50,6 +50,6 @@ export default defineConfig({
   metaChunk: true,
   appearance: 'dark',
   sitemap: {
-    hostname: 'https://geekeast.github.io/zenbyte.biz',
+    hostname: 'https://zenbyte.biz',
   },
 });
