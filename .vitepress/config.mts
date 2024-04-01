@@ -9,7 +9,10 @@ export default defineConfig({
   base: '/zenbyte.biz/',
   title: 'ZenByte',
   description: 'Technical Blog from ZenByte',
-  head: [['link', { rel: 'shortcut icon', href: '/zenbyte.biz/img/favicon.ico' }]],
+  // base doesn't apply well to head
+  head: [
+    ['link', { rel: 'shortcut icon', href: '/zenbyte.biz/img/favicon.ico' }],
+  ],
   themeConfig: {
     logo: '/img/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
@@ -20,7 +23,7 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/GeekEast' }],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2014-present ZenByte',
+      copyright: 'Copyright © 2024-present ZenByte',
     },
     lastUpdated: {
       text: 'Updated at',
