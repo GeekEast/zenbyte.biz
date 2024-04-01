@@ -15,6 +15,7 @@ if [ -f ".vitepress/sidebar.json" ]; then
         echo "pnpm sidebar:generate to update the sidebar.json file."
         exit 1
     fi
+    rm .vitepress/sidebar.json.tmp
 else
     echo "Error: .vitepress/sidebar.json"
     echo "Please run sidebar:generate once to generate the sidebar.json file."
