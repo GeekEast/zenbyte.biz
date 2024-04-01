@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ZenByte"
-  text: "Technical Articles"
+  text: "Technical Knowledge Base"
   logo:
   image:
     src: /img/logo.png
