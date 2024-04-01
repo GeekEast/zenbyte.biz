@@ -1,0 +1,18 @@
+.VPHome[data-v-4d683dcf] {
+  margin-bottom: 50px;
+}
+
+@media (min-width: 768px) {
+  .VPHome[data-v-4d683dcf] {
+    margin-bottom: 65px;
+  }
+}
+
+/* make all images not draggable */
+img {
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
