@@ -18,7 +18,10 @@ export default defineConfig({
     sidebar: {
       '/articles/': articleItems,
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/GeekEast' }],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/GeekEast' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/geekeast/' },
+    ],
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present ZenByte',
@@ -41,8 +44,8 @@ export default defineConfig({
     },
   },
   cleanUrls: true,
-  srcExclude: ['**/README.md'],
   metaChunk: true,
+  srcExclude: ['**/README.md'],
   appearance: 'dark',
   sitemap: {
     hostname: 'https://zenbyte.biz',
