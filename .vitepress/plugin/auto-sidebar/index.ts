@@ -27,9 +27,12 @@ export interface AutoSidebarOptions {
   collapse?: boolean;
 }
 
+// global cache <link, title>
 const titleCache: Record<string, string> = {};
 
-function asTitle(str: string) {
+function asTitle(str?: string) {
+  if (!str) return;
+
   // Split the string into an array of words
   const words = str.split('-');
 
@@ -46,51 +49,78 @@ function asTitle(str: string) {
 
 function getSidebarConfig(opts: Required<AutoSidebarOptions>) {
   const docsPath = opts.docs;
+  // [
+  //   'notes/network/osi-7-laysers.md',
+  //   'notes/network/cookie-vs-session.md',
+  //   'notes/jargons/jargons.md',
+  //   'notes/courses/top-cs-courses.md',
+  // ];
   const paths = glob.sync('**/*.md', {
     cwd: docsPath,
     ignore: opts.ignores,
   });
-  console.log(paths);
 
-  const basePath = path.relative(opts.root, docsPath);
+  const basePath = path.relative(opts.root, docsPath); // default to ""
   const sidebar: DefaultTheme.SidebarMulti = {};
 
   paths.forEach((fullPath) => {
     const segments = fullPath.split('/');
+    // the absolute path
     const absolutePath = path.resolve(docsPath, fullPath);
-    if (segments.length === 0) return;
-    // { "/demo/dir1/":[]}
-    const topLevel = basePath
+
+    // nothing find, end
+    if (segments.length === 0) {
+      return;
+    }
+
+    // extract the top level path
+    const topLevelPath = basePath
       ? `/${basePath}/${segments.shift()}/`
       : `/${segments.shift()}/`;
-    // 如果第一级是文件
-    if (topLevel.endsWith('.md')) return;
-    if (!sidebar[topLevel]) {
-      sidebar[topLevel] = [];
+
+    // will ignore root level markdown file, /root or /docs based on user's opt docs setting
+    if (topLevelPath.endsWith('.md')) return;
+
+    // e.g. { "/notes/": []}
+    if (!sidebar[topLevelPath]) {
+      sidebar[topLevelPath] = [];
     }
-    let currentLevel = sidebar[topLevel] as DefaultTheme.SidebarItem[];
+
+    let topLevelItems = sidebar[topLevelPath] as DefaultTheme.SidebarItem[];
+
+    console.log(segments);
+
+    // iterate through the rest of the segments
     segments.forEach((segment) => {
-      let curConfig = currentLevel.find((item) => item.text === segment);
+      let curConfig = topLevelItems.find(
+        (item) => item.text === asTitle(segment)
+      );
       if (!curConfig) {
         const itemConfig: DefaultTheme.SidebarItem = {};
         // is file
         if (segment.endsWith('.md')) {
-          const route = getRoute(opts.root, absolutePath);
+          // get title from markdown file
           itemConfig.text = matchTitle(absolutePath);
-          itemConfig.link = route;
+
+          // get link from abs path
+          const link = getLink(opts.root, absolutePath);
+          itemConfig.link = link;
+
           // cache title
-          titleCache[route] = itemConfig.text;
+          titleCache[link] = itemConfig.text;
         } else {
+          // title will be beautified
           itemConfig.text = asTitle(segment);
           itemConfig.collapsed = opts.collapse;
           itemConfig.items = [];
         }
-        currentLevel.push(itemConfig);
+        topLevelItems.push(itemConfig);
         curConfig = itemConfig;
       }
-      currentLevel = curConfig.items as DefaultTheme.SidebarItem[];
+      topLevelItems = curConfig.items as DefaultTheme.SidebarItem[];
     });
   });
+
   if (opts.sidebarResolved) {
     return opts.sidebarResolved(sidebar);
   }
@@ -103,7 +133,7 @@ function matchTitle(p: string) {
   return text;
 }
 
-function getRoute(root: string, absPath: string) {
+function getLink(root: string, absPath: string) {
   return '/' + path.relative(root, absPath);
 }
 
@@ -162,7 +192,7 @@ export const VitePluginAutoSidebar = (
         }
         if (event === 'change') {
           const title = matchTitle(filePath);
-          const route = getRoute(opts.root, filePath);
+          const route = getLink(opts.root, filePath);
           if (!route || !title) return;
           // title is not changed
           if (title === titleCache[route]) return;
