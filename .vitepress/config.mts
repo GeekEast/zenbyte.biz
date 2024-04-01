@@ -10,9 +10,7 @@ export default defineConfig({
   title: 'ZenByte',
   description: 'Technical Blog from ZenByte',
   // base doesn't apply well to head
-  head: [
-    ['link', { rel: 'shortcut icon', href: '/img/favicon.ico' }],
-  ],
+  head: [['link', { rel: 'shortcut icon', href: '/img/favicon.ico' }]],
   themeConfig: {
     logo: '/img/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
@@ -32,17 +30,14 @@ export default defineConfig({
         timeStyle: 'short',
       },
     },
-    // search: {
-    //   provider: 'algolia',
-    //   options: {
-    //     appId: 'SX8FM9ZST4',
-    //     apiKey: '2a58437ed867379befc25d0ca46dd0dd',
-    //     indexName: 'zenbyte',
-    //     placeholder: 'Search ZenByte',
-    //   },
-    // },
     search: {
-      provider: 'local',
+      provider: 'algolia',
+      options: {
+        appId: 'SX8FM9ZST4',
+        apiKey: '2a58437ed867379befc25d0ca46dd0dd',
+        indexName: 'zenbyte',
+        placeholder: 'Search ZenByte',
+      },
     },
   },
   cleanUrls: true,
