@@ -6,12 +6,12 @@ export default defineConfig({
   markdown: {
     theme: 'one-dark-pro',
   },
-  base: '/zenbyte.biz/',
+  base: '/',
   title: 'ZenByte',
   description: 'Technical Blog from ZenByte',
   // base doesn't apply well to head
   head: [
-    ['link', { rel: 'shortcut icon', href: '/zenbyte.biz/img/favicon.ico' }],
+    ['link', { rel: 'shortcut icon', href: '/img/favicon.ico' }],
   ],
   themeConfig: {
     logo: '/img/logo.svg',
