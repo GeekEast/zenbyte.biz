@@ -7,6 +7,7 @@ export default defineConfig({
     theme: 'one-dark-pro',
   },
   base: '/',
+  lang: 'en-US',
   title: 'ZenByte',
   description: 'Technical Blog from ZenByte',
   // base doesn't apply well to head
