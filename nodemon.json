@@ -1,6 +1,0 @@
-{
-  "watch": ["articles/", "scripts/genSidebar.js"],
-  "ext": "md,js",
-  "ignore": ["node_modules/"],
-  "script": "scripts/genSidebar.js"
-}
