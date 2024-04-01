@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Check if a.json exists
+if [ -f ".vitepress/sidebar.json" ]; then
+    # copy the prev version of the json file
+    cp .vitepress/sidebar.json .vitepress/sidebar.json.tmp
+    # generate a new sidebar json file
+    pnpm sidebar:generate
+    
+    # Compare the current and previous versions of a.json
+    if ! cmp -s ".vitepress/sidebar.json.tmp" ".vitepress/sidebar.json"; then
+        # revert back to prev version
+        mv .vitepress/sidebar.json.tmp .vitepress/sidebar.json
+        echo ".vitepress/sidebar.json has changed compared to the previous version!"
+        echo "pnpm sidebar:generate to update the sidebar.json file."
+        exit 1
+    fi
+else
+    echo "Error: .vitepress/sidebar.json"
+    echo "Please run sidebar:generate once to generate the sidebar.json file."
+    # Exit with a non-zero status to indicate an error
+    exit 1
+fi
