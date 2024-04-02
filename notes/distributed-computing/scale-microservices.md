@@ -1,8 +1,9 @@
 # Scale Microservices
 
-## The Scalibility Cube
+## The Scale Cube
 
-[https://www.youtube.com/watch?v=q1RUnL4xTd](https://www.youtube.com/watch?v=q1RUnL4xTds)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1RUnL4xTds?si=zzOCfDAkFtBi4oBz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 - X: horizontal scaling
 ![image](./img/2024-04-02-21-14-54.png)
