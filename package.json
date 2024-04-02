@@ -19,6 +19,8 @@
     "husky": "^9.0.11",
     "vite": "^5.2.7",
     "vitepress": "^1.0.1",
-    "vitepress-plugin-google-analytics": "^1.0.2"
+    "vitepress-plugin-comment-with-giscus": "^1.1.12",
+    "vitepress-plugin-google-analytics": "^1.0.2",
+    "vue": "^3.4.21"
   }
 }
