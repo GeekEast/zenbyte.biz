@@ -2,7 +2,9 @@
 
 ## Isomorphic:
 
-https://www.youtube.com/watch?v=BAmWgVjSosY&ab_channel=Socratica
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BAmWgVjSosY?si=RxHgYt9mn3anjrxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 直白解释: 两个东西结构完全一致 但是形态不同
 
