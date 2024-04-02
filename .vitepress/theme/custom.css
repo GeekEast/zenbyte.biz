@@ -16,3 +16,8 @@ img {
   -webkit-user-select: none;
   -ms-user-select: none;
 }
+
+/* iframe mobile responsive */
+iframe {
+  max-width: 100% !important;
+}

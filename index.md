@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Start Reading
-      link: /notes/
+      link: /docs/notes/
 
 features:
   - icon:

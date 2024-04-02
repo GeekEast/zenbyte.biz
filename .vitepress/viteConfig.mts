@@ -8,6 +8,7 @@ export function getViteConfig(): UserConfig<DefaultTheme.Config>['vite'] {
     },
     plugins: [
       VitePluginAutoSidebar({
+        docs: 'docs',
         // index file won't be included in the sidebar
         ignores: ['**/index.md', '**/README.md'],
         sidebarResolved(sidebar) {
