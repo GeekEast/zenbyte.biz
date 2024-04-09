@@ -9,5 +9,6 @@ export function getNavConfig(): DefaultTheme.NavItem[] {
       link: '/docs/bugs/2024/bug-1.md',
     },
     { text: 'Notes', link: '/docs/notes/' },
+    { text: 'Life', link: '/docs/life/index.md' },
   ];
 }
