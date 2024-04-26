@@ -12,5 +12,6 @@ export function getNavConfig(): DefaultTheme.NavItem[] {
     { text: 'Notes', link: '/docs/notes/' },
     { text: 'Life', link: '/docs/life/index.md' },
     { text: 'Events', link: '/docs/events/aws-summit-2024.md' },
+    { text: 'Badminton', link: '/docs/badminton/' },
   ];
 }
