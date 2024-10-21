@@ -42,7 +42,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://media.licdn.com/dms/image/C5603AQFHmjJEG1umzw/profile-displayphoto-shrink_800_800/0/1652696542963?e=1717632000&v=beta&t=FRoYv4ikLBTUjeiQUVpaDoC8XKtZPLc_kkWx1GRkuXs',
+    avatar: 'https://media.licdn.com/dms/image/v2/C5603AQFHmjJEG1umzw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652696542963?e=1735171200&v=beta&t=j7gxsZZOA9yoSKRZWbh5IeRovnueFOtIfB1bvvbCg7U',
     name: 'James Tan',
     title: 'Creator',
     links: [
