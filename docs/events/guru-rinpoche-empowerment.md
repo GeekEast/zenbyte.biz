@@ -3,9 +3,9 @@
 <p align="center"><img style="display: block; width: 600px; margin: 0 auto;" src="./img/2024-10-21-22-49-23.png" alt="no image found"></p>
 
 ## 舞台设备清单
-
-- 投影幕布1
-- 投影幕布2 
+- 延长线 x 2 @James ✅
+- 投影幕布1 @James ✅
+- 投影幕布2 @James ✅
 - 投影仪1 @James ✅
 - 投影仪2 @Joy ✅
 - 无线话筒1 @Naya ✅
@@ -13,6 +13,8 @@
 - 无线话筒3 @Naya ✅
 - 1个调音台 @Naya ✅
 - 音响1号 @道场 ✅
+- 插排 x 3 @James 
+- 挂钩 x 10 @James
 - 音响2号 @Naya
 - 音响3号 @Naya
 
