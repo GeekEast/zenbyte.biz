@@ -20,5 +20,11 @@ docker run --platform linux/amd64 -it --env-file=.env -e "CONFIG=$(cat ./algolia
 notice in algolia.json, the `lang` settings must be the same as in `.vitepress/config.mts`. for example, `en-US`
 
 
+## Edit Top Navigation Bar
+```sh
+.vitepress/navConfig.mts
+```
+
+
 ## References
 [Markdown Guide](https://vitepress.dev/guide/markdown)

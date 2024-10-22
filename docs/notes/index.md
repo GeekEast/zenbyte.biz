@@ -12,7 +12,7 @@ next: false
 
 Hi there! 👋 I'm so glad you've found your way to my little corner of the internet. 
 
-<VPTeamMembers size="small" :members="members" />
+<!-- <VPTeamMembers size="small" :members="members" /> -->
 
 ## About This Blog
 

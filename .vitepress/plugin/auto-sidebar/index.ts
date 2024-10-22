@@ -49,12 +49,6 @@ function asTitle(str?: string) {
 
 function getSidebarConfig(opts: Required<AutoSidebarOptions>) {
   const docsPath = opts.docs;
-  // [
-  //   'notes/network/osi-7-laysers.md',
-  //   'notes/network/cookie-vs-session.md',
-  //   'notes/jargons/jargons.md',
-  //   'notes/courses/top-cs-courses.md',
-  // ];
   const paths = glob.sync('**/*.md', {
     cwd: docsPath,
     ignore: opts.ignores,
@@ -119,6 +113,20 @@ function getSidebarConfig(opts: Required<AutoSidebarOptions>) {
       }
       topLevelItems = curConfig.items as DefaultTheme.SidebarItem[];
     });
+  });
+
+  // add sort by file name alphabetically
+  Object.keys(sidebar).forEach((key) => {
+    if (Array.isArray(sidebar[key])) {
+      sidebar[key].sort((a, b) => {
+        const aPath = a.link?.split('/');
+        const aFileName = aPath ? aPath[aPath.length - 1] : '';
+        const bPath = b.link?.split('/');
+        const bFileName = bPath ? bPath[bPath.length - 1] : '';
+        // sort by filename alphabetically
+        return aFileName.localeCompare(bFileName);
+      });
+    }
   });
 
   if (opts.sidebarResolved) {

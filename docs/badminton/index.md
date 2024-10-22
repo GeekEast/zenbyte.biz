@@ -8,48 +8,20 @@ prev: false
 next: false
 ---
 
-# Welcome to My Technical Notes Blog!
+# Badminton Section
 
-Hi there! 👋 I'm so glad you've found your way to my little corner of the internet. 
+Welcome to the Badminton Section! This is a paradise for badminton enthusiasts, where both beginners and experts can find valuable content.
 
-<VPTeamMembers size="small" :members="members" />
+## Section Contents
 
-## About This Blog
+- **Technique Tutorials**: From basic movements to advanced skills, comprehensively improve your badminton level.
+- **Match Analysis**: In-depth interpretation of top players' matches, learn their tactics and techniques.
+- **Equipment Recommendations**: Recommend suitable rackets, shoes, and other equipment for you.
+- **Fitness Guidance**: Provide physical training advice specific to badminton.
+- **Community Interaction**: Exchange insights and share experiences with other badminton enthusiasts.
 
-This blog is where I share my technical notes, insights, and experiences as I navigate the ever-evolving world of technology. Whether you're a seasoned developer, a curious learner, or just stumbled upon this site by chance, I hope you'll find something here that sparks your interest and helps you grow.
+Whether you're here for fitness, entertainment, or competition, there's content suitable for you. Let's sweat and enjoy happiness together in the world of badminton!
 
-## What You'll Find Here
+Start exploring now!
 
-- 📝 Detailed tutorials and step-by-step guides
-- 💡 Tips, tricks, and best practices for various technologies
-- 🤔 Musings on industry trends and new developments
-- 🚀 Personal projects and experiments
-- 📚 Recommended resources for further learning
-
-## Let's Connect!
-
-I believe that learning is a collaborative process, and I'd love to hear from you. If you have any questions, suggestions, or just want to say hi, feel free to reach out via the comments section or through my social media channels.
-
-## Thanks for Visiting!
-
-Once again, welcome to my blog. I'm excited to share my knowledge with you and learn from your experiences as well. Let's embark on this technical journey together!
-
-Happy exploring! 🌟
-
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: 'https://media.licdn.com/dms/image/C5603AQFHmjJEG1umzw/profile-displayphoto-shrink_800_800/0/1652696542963?e=1717632000&v=beta&t=FRoYv4ikLBTUjeiQUVpaDoC8XKtZPLc_kkWx1GRkuXs',
-    name: 'James Tan',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/GeekEast' },
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/geekeast/' }
-    ]
-  }
-]
-</script>
 

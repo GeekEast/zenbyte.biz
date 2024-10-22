@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ZenByte"
-  text: "Technical Knowledge Base"
+  text: "Inner Space"
   logo:
   image:
     src: /img/logo.png
@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Start Reading
-      link: /docs/notes/
+      link: /docs/
 
 features:
   - icon:
