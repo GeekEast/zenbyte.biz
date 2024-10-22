@@ -6,7 +6,9 @@ import { ref, onMounted, onUnmounted } from 'vue'
 const count = ref(0)
 
 function increment() {
-  count.value++
+  if (count.value < 9999) {
+      count.value++
+  }
 }
 
 function decrement() {
@@ -20,13 +22,13 @@ function reset() {
 }
 
 function handleKeydown(event) {
-  if (event.code === 'Space' || event.code === 'ArrowUp') {
+  if (event.code === 'NumpadAdd') {
     increment()
   }
 
-  if (event.code === 'ArrowDown') {
+  if (event.code === 'NumpadSubtract') {
     decrement()
-  }
+  }  
 }
 
 onMounted(() => {
