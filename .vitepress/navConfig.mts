@@ -5,13 +5,9 @@ import { DefaultTheme } from 'vitepress';
 export function getNavConfig(): DefaultTheme.NavItem[] {
   // setup each section's index page.
   return [
-    // {
-    //   text: 'Myriad',
-    //   link: '/docs/bugs/2024/bug-1.md',
-    // },
-    { text: 'Notes', link: '/docs/notes/' },
-    // { text: 'Life', link: '/docs/life/index.md' },
-    { text: 'Events', link: '/docs/events/aws-summit-2024.md' },
-    { text: 'Badminton', link: '/docs/badminton/' },
+    { text: '🧑‍💻 Tech', link: '/docs/notes/' },
+    { text: '🧘 Mantra', link: '/docs/mantra/' },
+    { text: '📅 Events', link: '/docs/events/' },
+    { text: '🏸 Badminton', link: '/docs/badminton/' },
   ];
 }
