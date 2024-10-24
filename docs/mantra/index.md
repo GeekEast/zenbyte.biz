@@ -42,3 +42,16 @@ We encourage you to maintain an attitude of sincerity and respect during your le
 Please browse the menu on the left and choose a mantra that interests you to start learning. May these ancient and sacred mantras bring peace, wisdom, and harmony to your life.
 
 Namo Amitabha Buddha 🙏
+
+
+<!-- 净口业真言 （1遍）
+净业真言  (1遍)
+安土地真言 （1遍）
+普供养真言 （1遍） -->
+
+
+大悲咒心咒 （7遍） + 大悲水
+六字大明咒 （21遍）
+心经 （7遍）
+楞严咒 （2遍）
+金刚萨埵百字明 （3遍）

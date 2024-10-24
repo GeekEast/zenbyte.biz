@@ -25,9 +25,25 @@ function handleKeydown(event) {
     increment()
   }
 
+  if (event.code === 'BracketRight') {
+    increment()
+  }
+
+  if (event.code === 'ArrowRight') {
+    increment()
+  }
+
+  if (event.code === 'BracketLeft') {
+    decrement()
+  }
+
   if (event.code === 'NumpadSubtract') {
     decrement()
   }  
+
+    if (event.code === 'ArrowLeft') {
+    increment()
+  }
 }
 
 onMounted(() => {
