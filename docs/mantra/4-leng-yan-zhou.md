@@ -2,8 +2,7 @@
 
 
 ---
-
-<div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-22-13.png" alt="no image found"></div>
+<!-- <div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-22-13.png" alt="no image found"></div> -->
 <div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-22-21.png" alt="no image found"></div>
 <div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-22-31.png" alt="no image found"></div>
 <div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-22-39.png" alt="no image found"></div>
