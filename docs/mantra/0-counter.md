@@ -1,4 +1,4 @@
-# 计数器
+# ⏱️ 功课计数
 
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
