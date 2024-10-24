@@ -1,6 +1,6 @@
 # Welcome to ZenByte
 
-Welcome to ZenByte, a unique space where technology meets mindfulness. This blog is dedicated to sharing insights, experiences, and knowledge at the intersection of modern tech and ancient wisdom.
+Welcome to ZenByte, a unique space where technology meets mindfulness. This blog is dedicated to sharing insights, experiences, and knowledge at the intersection of modern tech and ancient wisdom
 
 ## Sections
 
