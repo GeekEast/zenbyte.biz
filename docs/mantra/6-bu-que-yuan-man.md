@@ -1,4 +1,4 @@
-# 补阙圆满
+# 💫 圆满回向
 
 <!-- <p align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/----.png" alt="no image found"></p> -->
 
@@ -163,5 +163,21 @@ de kan za you ne ruo da
 ēi wang ba de ma ha xia er ma na suo ha
 
 诶旺巴德 玛哈 夏儿玛纳 梭哈
+
+
+<div class="mantra-title">
+回向文
+</div>
+
+愿以此功德 庄严佛净土
+
+上报四重恩 下济三途苦
+
+若有见闻者 悉发菩提心
+
+尽此一报身 同生极乐国
+
+十方三世一切佛 一切菩萨摩诃萨 摩诃般若菠萝蜜
+<div class="mantra-times" style="margin-top: 5px;">(3遍)</div>
 
 </div>
