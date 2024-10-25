@@ -10,7 +10,7 @@
 .mantra-box {
   margin: 2px 0 !important;
   text-align: center;
-  background-color: #FCD175;
+  background-color: #FBF4E1;
   padding: 10px;
   border-radius: 5px;
   font-size: 1.2em;
@@ -20,6 +20,9 @@
   /* font-family: KaiTi, "楷体", "楷体_GB2312", STKaiti, "华文楷体", serif; */
   letter-spacing: 0.06em;
   padding: 1.8em;
+
+  /* white-space: nowrap;
+  overflow-x: auto; */
 }
 
 .mantra-title {
@@ -123,22 +126,36 @@ sà mǎ yā sà duǒ ā
 </div>
 <div class="mantra-times">(3遍)</div>
 
-nā mó hē là dá nà，duō là yè yē
+nā mó hē là dá nà
 
-南谟喝啰怛那 哆啰夜耶
+南谟喝啰怛那 
 
-qié là qié là jù zhù jù zhù
+duō là yè yē
 
-佉啰佉啰 俱住俱住 
+哆啰夜耶
 
-mó là mó là hǔ là hōng hè hè
+qié là qié là 
 
-摩啰摩啰 虎啰 吽
+佉啰佉啰  
 
-sū dá ná，hōng
+jù zhù jù zhù
+
+俱住俱住
+
+mó là mó là 
+
+摩啰摩啰 
+
+hǔ là hōng 
+
+虎啰 吽
+
+hè hè sū dá ná hōng
+
 贺贺 苏怛拏 吽
 
 pō mò ná suō pó hē
+
 泼抹拏 娑婆诃
 
 
@@ -148,36 +165,61 @@ pō mò ná suō pó hē
 
 <div class="mantra-times">(3遍)</div>
 
-ōng ye da er ma hei de zhua ba wa
+ōng ye da er 
 
-嗡 耶达儿 玛嘿 德抓巴瓦
+嗡 耶达儿 
 
-hei dun de kan da ta ga duo ha ya ba da
+ma hei de zhua ba wa
 
-嘿 敦得堪 达塔嘎多 哈雅巴达
+玛嘿 德抓巴瓦
+
+hei dun de kan
+
+嘿 敦得堪 
+
+da ta ga duo ha ya ba da
+
+达塔嘎多 哈雅巴达
 
 de kan za you ne ruo da
 
 得堪匝友 呢若达
 
-ēi wang ba de ma ha xia er ma na suo ha
+ēi wang ba de ma ha
 
-诶旺巴德 玛哈 夏儿玛纳 梭哈
+诶旺巴德 玛哈
+
+xia er ma na suo ha
+
+夏儿玛纳 梭哈
 
 
 <div class="mantra-title">
 回向文
 </div>
 
-愿以此功德 庄严佛净土
+愿我所修诸功德
 
-上报四重恩 下济三途苦
+回向众生得解脱
 
-若有见闻者 悉发菩提心
+永离四苦三毒害
 
-尽此一报身 同生极乐国
+智慧如海证圆觉
 
-十方三世一切佛 一切菩萨摩诃萨 摩诃般若菠萝蜜
-<div class="mantra-times" style="margin-top: 5px;">(3遍)</div>
+功德大乐唯一源
+
+愿佛教法恒住世
+
+及诸乘愿持法者
+
+长寿康健如胜帜
+
+祈愿尊胜上师寿坚固
+
+祈愿虚空有情乐且健
+
+净障积粮自他悉圆满
+
+祈愿我等速达佛境地
 
 </div>
