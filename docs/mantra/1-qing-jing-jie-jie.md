@@ -10,7 +10,7 @@
 .mantra-box {
   margin: 2px 0 !important;
   text-align: center;
-  background-color: #FCD175;
+  background-color: #FBF4E1;
   padding: 10px;
   border-radius: 5px;
   font-size: 1.2em;
@@ -80,13 +80,17 @@ pà dē suō hā
 </div>
 <div class="mantra-times">(3遍)</div>
 
-唵 修利修利 摩诃修利 修修利 萨婆诃
+唵 修利修利 摩诃修利
+
+修修利 萨婆诃
 
 <div class="mantra-title">
 净身业真言
 </div>
 <div class="mantra-times">(3遍)</div>
-唵 修多唎 修多唎 修摩唎 修摩唎 娑婆诃
+唵 修多唎 修多唎 
+
+修摩唎 修摩唎 娑婆诃
 
 <div class="mantra-title">
 净意业真言
@@ -100,7 +104,9 @@ pà dē suō hā
 </div>
 <div class="mantra-times">(3遍)</div>
 
-南摩三滿多 母馱南 嗡 度魯 度魯 地尾 梭哈
+南摩三滿多 母馱南 
+
+嗡 度魯 度魯 地尾 梭哈
 
 
 </div>
