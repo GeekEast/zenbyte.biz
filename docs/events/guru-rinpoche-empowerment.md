@@ -1,22 +1,26 @@
 # 莲师雷顿十万荟供暨灌顶大法会
 
+Date: 01.11.2024
+
 <p align="center"><img style="display: block; width: 600px; margin: 0 auto;" src="./img/2024-10-21-22-49-23.png" alt="no image found"></p>
 
-## 舞台设备清单
-- 延长线 x 2 @James ✅
-- 投影幕布1 @James ✅
-- 投影幕布2 @James ✅
-- 投影仪1 @James ✅
-- 投影仪2 @Joy ✅
-- 无线话筒1 @Naya ✅
-- 无线话筒2 @Naya ✅
-- 无线话筒3 @Naya ✅
+## 声音
+- 音响  @Jason ✅
 - 1个调音台 @Naya ✅
-- 音响1号 @道场 ✅
-- 插排 x 3 @James 
-- 挂钩 x 10 @James
-- 音响2号 @Naya
-- 音响3号 @Naya
+- 有线话筒1 @Naya  + 话筒架子 ✅
+- 无线话筒1 @Naya  + 话筒架子 ✅
+- 无线话筒2 @Naya  + 话筒架子 ✅
+- 无线话筒3 @Naya  + 话筒架子 ✅
+
+## 投影
+- 投影仪 + 投影幕布 + 幕布支架 + 挂钩 + 挂绳  + HDMI 15m @James ✅
+- 投影仪 + 投影幕布 + 幕布支架 + 挂钩 + 挂绳  + HDMI 15m @James ✅
+- HDMI 5m x1 @James ✅
+- HDMI Splitter x1 @James ✅
+
+## 电源 
+- 电源延长线10m x 2 @James ✅
+- 插排 x 4 @James @Naya  ✅
 
 ## 日程安排
 
