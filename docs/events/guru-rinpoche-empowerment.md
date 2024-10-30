@@ -5,21 +5,20 @@ Date: 01.11.2024
 <p align="center"><img style="display: block; width: 600px; margin: 0 auto;" src="./img/2024-10-21-22-49-23.png" alt="no image found"></p>
 
 ## 声音
-- 音响  @Jason ✅
+- 音响  @Naya✅
 - 1个调音台 @Naya ✅
 - 有线话筒1 @Naya  + 话筒架子 ✅
 - 无线话筒1 @Naya  + 话筒架子 ✅
 - 无线话筒2 @Naya  + 话筒架子 ✅
-- 无线话筒3 @Naya  + 话筒架子 ✅
 
 ## 投影
-- 投影仪 + 投影幕布 + 幕布支架 + 挂钩 + 挂绳  + HDMI 15m @James ✅
-- 投影仪 + 投影幕布 + 幕布支架 + 挂钩 + 挂绳  + HDMI 15m @James ✅
-- HDMI 5m x1 @James ✅
+- 投影仪 + 投影幕布 + 幕布支架 + HDMI 20m @James ✅
+- 投影仪 + 投影幕布 + 幕布支架 + HDMI 20m @James ✅
+- HDMI 5m x2 @James ✅
 - HDMI Splitter x1 @James ✅
 
 ## 电源 
-- 电源延长线10m x 2 @James ✅
+- 电源延长线10m x 3 @James ✅
 - 插排 x 4 @James @Naya  ✅
 
 ## 日程安排
