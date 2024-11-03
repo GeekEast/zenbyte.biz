@@ -50,5 +50,7 @@
 - 一般的背景音乐
   - https://youtu.be/Ohbdy039HBE?si=aWbtgF1AEzzOAynI
   - https://youtu.be/VVCINRh3OdQ?si=eEo6P39Pw2dAC08D
-- 需要提前1天准备好PPT放在Google Slide上面
+- 需要提前1天准备好PPT放在Google Slide上面 @Erika
 - 黑胶带用来固定线缆, 也可用来固定投影幕布支架
+- 有点场地可能不允许胶带，需提前确认
+- 投影位置需要确认行人流量还有采光情况
