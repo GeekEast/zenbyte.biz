@@ -62,102 +62,67 @@
 
 ōng bān zhá sà duǒ sà mǎ yā
 
-嗡班札萨埵萨玛呀
+嗡 班札 萨埵 萨玛雅
 
 mǎ nú bā lā yā
 
-玛奴巴拉呀
+嘛奴巴拉呀
 
 bān zá sà duǒ dié nuò bā
 
-班杂萨埵喋诺巴
+班杂 萨埵 喋诺巴
 
 dì chā zé zhuō měi bā wā
 
-地叉则桌美巴哇
+底叉 知桌 美 巴哇
 
 sù duǒ kǎ yōu měi bā wā
 
-速埵卡唷美巴哇
+速埵卡唷 美 巴哇
 
 sù bō kǎ yōu měi bā wā
 
-速波卡唷美巴哇
+速波卡唷 美 巴哇
 
 ā nú lā duō měi bā wā
 
-阿奴拉多美巴哇
+阿奴拉多 美 巴哇
 
 sàr wā xī dì ma měi zhá yā cā
 
-萨哇悉地玛美札呀擦
+萨哇 悉地 玛 美札呀擦
 
 sà wā gā mǎ sù zá měi
 
-萨哇嘎玛速杂美
+萨哇 嘎玛 速 杂 美
 
 jī dāng xie yang gū rú hōng
 
-积当鞋央咕如吽
+则当 鞋央 格热吽
 
-hā hā hā hā huò bā gā wèn
+hā hā hā hā huò 
 
-哈哈哈哈霍巴嘎问
+哈哈哈哈霍 
+
+bān gā wèn
+
+班嘎万
 
 sà wā dá tā gā dá
 
-萨哇达他嘎达
+萨哇 达他嘎达
 
 bān zá mǎ měi mu zá
 
-班杂玛美母杂
+班杂 玛美 母杂
 
-bān zhá bā wā mǎ hā
+bān zhá bā wā 
 
-班札巴哇玛哈
+班札巴哇 
 
-sà mǎ yā sà duǒ ā
+mǎ hā sà mǎ yā sà duǒ ā
 
-萨玛呀萨埵阿
-
-
-<div class="mantra-title">
-补阙真言
-</div>
-<div class="mantra-times">(3遍)</div>
-
-nā mó hē là dá nà
-
-南谟喝啰怛那 
-
-duō là yè yē
-
-哆啰夜耶
-
-qié là qié là 
-
-佉啰佉啰  
-
-jù zhù jù zhù
-
-俱住俱住
-
-mó là mó là 
-
-摩啰摩啰 
-
-hǔ là hōng 
-
-虎啰 吽
-
-hè hè sū dá ná hōng
-
-贺贺 苏怛拏 吽
-
-pō mò ná suō pó hē
-
-泼抹拏 娑婆诃
-
+玛哈 萨玛呀 萨埵 阿
 
 <div class="mantra-title">
 缘起咒
@@ -165,33 +130,33 @@ pō mò ná suō pó hē
 
 <div class="mantra-times">(3遍)</div>
 
-ōng ye da er 
+ōng ye da ma
 
-嗡 耶达儿 
+嗡耶 达玛
 
-ma hei de zhua ba wa
+hei de zhua ba wa
 
-玛嘿 德抓巴瓦
+黑德 抓巴瓦
 
 hei dun de kan
 
-嘿 敦得堪 
+黑敦 得堪 
 
-da ta ga duo ha ya ba da
+da ta ga duo ha ya a da
 
-达塔嘎多 哈雅巴达
+达塔嘎多 哈雅啊得
 
 de kan za you ne ruo da
 
-得堪匝友 呢若达
+得堪杂友 呢若达
 
 ēi wang ba de ma ha
 
-诶旺巴德 玛哈
+诶旺 巴德 玛哈
 
-xia er ma na suo ha
+xia ma na suo ha
 
-夏儿玛纳 梭哈
+夏玛纳 娑哈
 
 
 <div class="mantra-title">
