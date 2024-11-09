@@ -16,16 +16,22 @@ Welcome to the Buddhist Mantra Section! This is a dedicated space for collecting
 
 Here, you will find various Buddhist mantras that I have personally practiced and recited, including but not limited to:
 
-- Great Compassion Mantra
-- Heart Sutra
-- Shurangama Mantra
-- Ten Small Mantras
+- [功课计数 - Practice Counter](./0-counter.md)
+- [清净结界 - Pure Boundary](./1-qing-jing-jie-jie.md)
+- [皈依发心 - Taking Refuge and Generating Bodhicitta](./1.1-gui-yi.md)
+- [佛陀心咒 - Buddha Heart Mantra](./1.2-fo-tuo-xin-zhou.md)
+- [莲师心咒 - Guru Rinpoche Heart Mantra](./1.3-lian-shi-qi-ju.md)
+- [大悲咒 - Great Compassion Mantra](./2.1-da-bei-zhou.md)
+- [心经 - Heart Sutra](./2.2-xin-jing-hui-zhe.md)
+- [楞严咒 - Shurangama Mantra](./3-leng-yan-zhou.md)
+- [报父母恩咒 - Parents' Kindness Repayment Mantra](./4.1-bao-fu-mu-en.md)
+- [大轮金刚咒 - Great Wheel Vajra Mantra](./4.2-da-lun-jin-gang.md)
+- [药师灌顶真言 - Medicine Buddha Empowerment Mantra](./4.3-yao-shi-guan-ding.md)
+- [智慧专修 - Wisdom Practice](./4.4-zhi-hui-zhuan-xiu.md)
+- [财富专修 - Wealth Practice](./4.5-cai-fu-zhou.md)
+- [超度专修 - Liberation Practice](./4.6-chao-du-zhuan-xiu.md)
+- [圆满回向 - Perfect Dedication](./9-bu-que-yuan-man.md)
 
-For each mantra, we provide the following content:
-
-1. **Sanskrit Version**: The original Sanskrit text, preserving the source of the mantra.
-2. **Pinyin Version**: To facilitate learning and recitation for Chinese readers.
-3. **YouTube Audio Link**: Providing professional chanting audio to help you learn the correct pronunciation and rhythm.
 
 ## Learning and Practice
 
@@ -42,7 +48,3 @@ We encourage you to maintain an attitude of sincerity and respect during your le
 Please browse the menu on the left and choose a mantra that interests you to start learning. May these ancient and sacred mantras bring peace, wisdom, and harmony to your life.
 
 Namo Amitabha Buddha 🙏
-
-
-
-大悲咒心咒 （7遍） + 大悲水
