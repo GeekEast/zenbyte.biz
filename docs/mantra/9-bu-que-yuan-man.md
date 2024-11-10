@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # 💫 圆满回向
 
 <!-- <p align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/----.png" alt="no image found"></p> -->
