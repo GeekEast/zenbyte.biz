@@ -56,26 +56,25 @@ aside: false
 <div class="mantra-box">
 
 <div class="mantra-title">
-加倍咒
+变亿咒
 </div>
 <div class="mantra-times">(3遍)</div>
 
-ōng sān bá rē sān bá rē 
+om sambhara sambhara 
 
 嗡 三拔惹 三拔惹 
 
-bō mǎ nà sà rē
+vimāna sāra 
 
-波玛纳萨惹 
+波玛纳 萨惹 
 
+mahājaya 
 
-mā hā zàng bā bā hòng 
+嘛哈藏巴巴
 
-嘛哈藏巴巴吽 
+hūm phaṭ svāhā
 
-pà dē suō hā
-
-帕得 莎哈
+吽 帕得 莎哈
 
 
 
@@ -83,34 +82,45 @@ pà dē suō hā
 净口业真言
 </div>
 <div class="mantra-times">(3遍)</div>
+om suri suri mahasuri susuri svaha
 
-唵 修利修利 摩诃修利
-
-修修利 萨婆诃
+嗡 修利修利 摩訶修利 修修利 娑婆訶
 
 <div class="mantra-title">
 净身业真言
 </div>
 <div class="mantra-times">(3遍)</div>
-唵 修多唎 修多唎 
+om sutari sutari sumari sumari svaha
 
-修摩唎 修摩唎 娑婆诃
+嗡 修多利 修多利 修摩利 修摩利 娑婆訶
 
 <div class="mantra-title">
 净意业真言
 </div>
 <div class="mantra-times">(3遍)</div>
+om vajra dahaha hoh
 
-唵 嚩日啰怛诃贺斛
+嗡 縛日囉 怛訶賀 斛
 
 <div class="mantra-title">
 安土地真言
 </div>
 <div class="mantra-times">(3遍)</div>
+Nama samanta 
 
-南摩三滿多 母馱南 
+南摩 三滿多 
 
-嗡 度魯 度魯 地尾 梭哈
+buddhanam om 
+
+母馱南 嗡 
+
+dhuru　dhuru　
+
+度魯 度魯 
+
+prthiviye svaha
+
+地尾 梭哈
 
 
 </div>

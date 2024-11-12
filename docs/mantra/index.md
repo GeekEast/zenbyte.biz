@@ -26,7 +26,6 @@ Here, you will find various Buddhist mantras that I have personally practiced an
 - [楞严咒 - Shurangama Mantra](./3-leng-yan-zhou.md)
 - [报父母恩咒 - Parents' Kindness Repayment Mantra](./4.1-bao-fu-mu-en.md)
 - [大轮金刚咒 - Great Wheel Vajra Mantra](./4.2-da-lun-jin-gang.md)
-- [药师灌顶真言 - Medicine Buddha Empowerment Mantra](./4.3-yao-shi-guan-ding.md)
 - [智慧专修 - Wisdom Practice](./4.4-zhi-hui-zhuan-xiu.md)
 - [财富专修 - Wealth Practice](./4.5-cai-fu-zhou.md)
 - [超度专修 - Liberation Practice](./4.6-chao-du-zhuan-xiu.md)

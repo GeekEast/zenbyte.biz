@@ -57,111 +57,6 @@ aside: false
 
 
 <div class="mantra-box">
-<div class="mantra-title">
-金刚萨埵百字明
-</div>
-
-<div class="mantra-times">(3遍)</div>
-
-
-ōng bān zhá sà duǒ sà mǎ yā
-
-嗡 班札 萨埵 萨玛雅
-
-mǎ nú bā lā yā
-
-嘛奴巴拉呀
-
-bān zá sà duǒ dié nuò bā
-
-班杂 萨埵 喋诺巴
-
-dì chā zé zhuō měi bā wā
-
-底叉 知桌 美 巴哇
-
-sù duǒ kǎ yōu měi bā wā
-
-速埵卡唷 美 巴哇
-
-sù bō kǎ yōu měi bā wā
-
-速波卡唷 美 巴哇
-
-ā nú lā duō měi bā wā
-
-阿奴拉多 美 巴哇
-
-sàr wā xī dì ma měi zhá yā cā
-
-萨哇 悉地 玛 美札呀擦
-
-sà wā gā mǎ sù zá měi
-
-萨哇 嘎玛 速 杂 美
-
-jī dāng xie yang gū rú hōng
-
-则当 鞋央 格热吽
-
-hā hā hā hā huò 
-
-哈哈哈哈霍 
-
-bān gā wèn
-
-班嘎万
-
-sà wā dá tā gā dá
-
-萨哇 达他嘎达
-
-bān zá mǎ měi mu zá
-
-班杂 玛美 母杂
-
-bān zhá bā wā 
-
-班札巴哇 
-
-mǎ hā sà mǎ yā sà duǒ ā
-
-玛哈 萨玛呀 萨埵 阿
-
-<div class="mantra-title">
-缘起咒
-</div>
-
-<div class="mantra-times">(3遍)</div>
-
-ōng ye da ma
-
-嗡耶 达玛
-
-hei de zhua ba wa
-
-黑德 抓巴瓦
-
-hei dun de kan
-
-黑敦 得堪 
-
-da ta ga duo ha ya a da
-
-达塔嘎多 哈雅啊得
-
-de kan za you ne ruo da
-
-得堪杂友 呢若达
-
-ēi wang ba de ma ha
-
-诶旺 巴德 玛哈
-
-xia ma na suo ha
-
-夏玛纳 娑哈
-
 
 <div class="mantra-title">
 回向文
@@ -191,4 +86,135 @@ xia ma na suo ha
 
 祈愿我等速达佛境地
 
+
+<div class="mantra-title">
+成就所愿誓言
 </div>
+
+以佛所获三身之加持 
+
+法性不变真谛之加持 
+
+僧众不退意乐之加持 
+
+如是回向发愿悉成就
+
+
+<div class="mantra-title">
+成就所愿咒
+</div>
+tadyathā pañca driya 
+
+达雅塔 班赞 哲雅  
+
+ava bodhanaye svāhā
+
+阿瓦 波达呢耶 娑哈
+
+
+<div class="mantra-title">
+金刚萨埵百字明
+</div>
+
+<div class="mantra-times">(3遍)</div>
+
+om benza sato samaya
+
+嗡 班扎萨埵 萨玛雅
+
+manupalaya
+
+嘛努巴拉雅
+
+benza sato tenopa 
+
+班扎 萨埵 底诺巴
+
+tishta dridho mé bhava
+
+底叉 知桌 美 巴哇
+
+sutokhayo mé bhava
+
+苏埵卡约 美巴哇
+
+supokhayo mé bhava
+
+苏波卡约 美 巴哇
+
+anurakto mé bhava
+
+阿奴拉多 美 巴哇
+
+sarva siddhi mé prayaccha
+
+萨哇 斯德 玛 美扎雅匝
+
+sarva karma su tsa mé
+
+萨哇 嘎玛 速 杂 美
+
+tsittam shreyang kuru 
+
+则当 鞋央 格热
+
+hung ha ha ha ha ho
+
+吽 哈哈哈哈嚯
+
+bhagavan
+
+班嘎万纳
+
+sarva tatagata
+
+萨哇达他嘎达
+
+benza ma mé muntsa
+
+班杂 玛美 母杂
+
+benzi bhava
+
+班札巴哇 
+
+maha samaya sato ah
+
+玛哈 萨玛呀 萨埵 阿
+
+<div class="mantra-title">
+缘起咒
+</div>
+
+<div class="mantra-times">(3遍)</div>
+
+om yé dharma       
+
+嗡耶 达玛
+
+hetu prabhava
+
+黑德 抓巴瓦
+
+hetun teshan
+
+黑敦 得堪 
+
+tatagato hyavadat
+
+达塔嘎多 哈雅啊得
+
+teshan tsa yo nirodha
+
+得堪杂友 呢若达
+
+evam vadi 
+
+诶旺 巴德 
+
+maha shramana soha
+
+玛哈 夏玛纳 娑哈
+</div>
+
+
