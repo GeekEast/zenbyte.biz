@@ -19,21 +19,17 @@ aside: false
 <div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-23-44.png" alt="no image found"></div>
 <div align="center"><img style="display: block; width: 100%; margin: 0 auto;" src="./img/2024-10-22-15-23-53.png" alt="no image found"></div>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/bv-Ms2UEUw4?si=SGmvUicA0vIpBtai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
 <style>
 .vp-doc p {
     margin: 5px 0;
 }
 
 .mantra-box {
-  margin: 2px 0 !important;
+  margin: 0px 0 !important;
   text-align: center;
   background-color: #FBF4E1;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 0px;
   font-size: 1.2em;
   line-height: 1.5;
   font-weight: 500;
@@ -68,9 +64,6 @@ aside: false
 }
 </style>
 
-
----- 
-
 <div class="mantra-box">
 
 
@@ -78,14 +71,27 @@ aside: false
 楞严心咒
 </div>
 <div class="mantra-times">(108遍)</div>
+oṃ anale anale
 
-嗡姆 阿纳雷 阿纳雷 维沙逮 维沙逮
+嗡姆 阿纳雷 阿纳雷 
 
-维Rua 哇解Rua 达利 班达班达你
+vi-śade vi-śade
 
-哇解Rua巴尼 怕德 虎姆 督汝姆 怕德 娑哈
+维沙逮 维沙逮
+
+vīra-vajra-dhare
+
+维Rua 哇解Rua  达利
+
+bandha bandhani
+
+班达班达你
+
+vajra-pāṇe phaṭ
+
+哇解Rua巴尼 怕德 
+
+hūṃ trūṃ phaṭ svāhā
+
+虎姆 督汝姆 怕德 娑哈
 </div>
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/16NFeh8MrWc?si=8TOEsejJz_loIC1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p align="center"><img style="display: block; width: 100%; margin: 0;" src="./img/2024-10-31-02-04-22.png" alt="no image found"></p>
