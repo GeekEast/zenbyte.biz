@@ -62,15 +62,15 @@ aside: false
 
 om sambhara sambhara 
 
-嗡 三拔惹 三拔惹 
+嗡 桑巴Ra 桑巴Ra
 
 vimāna sāra 
 
-波玛纳 萨惹 
+微麻呐 萨Ra 
 
-mahājaya 
+mahājava 
 
-嘛哈藏巴巴
+嘛哈夹娃
 
 hūm phaṭ svāhā
 
@@ -108,19 +108,19 @@ om vajra dahaha hoh
 <div class="mantra-times">(3遍)</div>
 Nama samanta 
 
-南摩 三滿多 
+南麻 苏满他 
 
 buddhanam om 
 
-母馱南 嗡 
+布打南 吽
 
 dhuru　dhuru　
 
-度魯 度魯 
+度入 度入
 
 prthiviye svaha
 
-地尾 梭哈
+菩(入)提微夜 斯哇哈
 
 
 </div>

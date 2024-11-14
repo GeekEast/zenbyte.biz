@@ -28,7 +28,6 @@ aside: false
   margin: 0px 0 !important;
   text-align: center;
   background-color: #FBF4E1;
-  padding: 10px;
   border-radius: 0px;
   font-size: 1.2em;
   line-height: 1.5;
@@ -36,7 +35,7 @@ aside: false
   color: #140000;
   /* font-family: KaiTi, "楷体", "楷体_GB2312", STKaiti, "华文楷体", serif; */
   letter-spacing: 0.06em;
-  padding: 1.8em;
+  padding: 1.8em
 }
 
 .mantra-title {
@@ -44,7 +43,7 @@ aside: false
  font-size: 1.8em;
  font-weight: 1000;
  color: #C40007;
- margin-top: 30px;
+ margin-top: 0px;
  margin-bottom: 10px;
 }
 
@@ -81,11 +80,11 @@ vi-śade vi-śade
 
 vīra-vajra-dhare
 
-维Rua 哇解Rua  达利
+维Rua 哇解Rua 达利
 
 bandha bandhani
 
-班达班达你
+班达 班达你
 
 vajra-pāṇe phaṭ
 

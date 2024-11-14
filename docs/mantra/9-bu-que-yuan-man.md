@@ -116,8 +116,6 @@ ava bodhanaye svāhā
 金刚萨埵百字明
 </div>
 
-<div class="mantra-times">(3遍)</div>
-
 om benza sato samaya
 
 嗡 班扎萨埵 萨玛雅
@@ -132,7 +130,7 @@ benza sato tenopa
 
 tishta dridho mé bhava
 
-底叉 知桌 美 巴哇
+底叉 知桌 美巴哇
 
 sutokhayo mé bhava
 
@@ -140,11 +138,11 @@ sutokhayo mé bhava
 
 supokhayo mé bhava
 
-苏波卡约 美 巴哇
+苏波卡约 美巴哇
 
 anurakto mé bhava
 
-阿奴拉多 美 巴哇
+阿奴拉多 美巴哇
 
 sarva siddhi mé prayaccha
 
@@ -168,7 +166,7 @@ bhagavan
 
 sarva tatagata
 
-萨哇达他嘎达
+萨哇 达他嘎达
 
 benza ma mé muntsa
 
@@ -176,7 +174,7 @@ benza ma mé muntsa
 
 benzi bhava
 
-班札巴哇 
+班札 巴哇 
 
 maha samaya sato ah
 
@@ -185,8 +183,6 @@ maha samaya sato ah
 <div class="mantra-title">
 缘起咒
 </div>
-
-<div class="mantra-times">(3遍)</div>
 
 om yé dharma       
 
@@ -206,7 +202,7 @@ tatagato hyavadat
 
 teshan tsa yo nirodha
 
-得堪杂友 呢若达
+得堪 杂 友 呢若达
 
 evam vadi 
 
